@@ -43,7 +43,7 @@ I also love discovering and getting more information about new languages or fram
 
 ### Contact Me 🤝
 
-I'm available on **[LinkedIn](linkedin.com/in/parth-tomar-85686a328/)**. <br>
+I'm available on **[LinkedIn](https://linkedin.com/in/parth-tomar-85686a328/)**. <br>
 
 ### 📊 My Github Stats
 
