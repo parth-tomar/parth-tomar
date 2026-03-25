@@ -57,7 +57,5 @@ I'm available on **[LinkedIn](linkedin.com/in/parth-tomar-85686a328/)**. <br>
 <br/>
 <br/>
 
-<a href="https://github.com/parth-tomar/github-readme-activity-graph"><img alt="Parth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parth-tomar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
