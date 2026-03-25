@@ -36,6 +36,10 @@ I also love discovering and getting more information about new languages or fram
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
+     <a href="https://canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-PNG-large-size.png" alt="canva" width="40" height="40"/> </a>
+     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier" width="40" height="40"/> </a>
+     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/500px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier" width="40" height="40"/> </a>
+      <a href="https://www.blackmagicdesign.com/in/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci" width="40" height="40"/> </a>
 </p>
 
 ### Contact Me 🤝
@@ -50,9 +54,6 @@ I'm available on **[LinkedIn](linkedin.com/in/parth-tomar-85686a328/)**. <br>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
 
 <br/>
 <br/>
