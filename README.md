@@ -2,7 +2,7 @@
 <!--
 My secret info 👀 
 
-- I am 19 years old, attending college @SRCC
+- I am 19 years old, attending college @SRCC, Delhi
 - I sketch, game, listen to music and travel around the city
 -->
 
