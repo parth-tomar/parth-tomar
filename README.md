@@ -2,28 +2,25 @@
 <!--
 My secret info 👀 
 
-- I code for about 4-5 hours
-- I am a gamer too lol
-- I am  16 yr old
+- I am 19 years old, attending college @SRCC
+- I sketch, game, listen to music and travel around the city
 -->
 
-## Hello, I am Parth! <img src="https://github.com/ItsArchfiend/ItsArchfiend/blob/main/WaveIcon.gif" width="30px">
+## Hello, I am Parth! <img src="https://github.com/parth-tomar/parth-tomar/blob/main/WaveIcon.gif" width="30px">
 
-Welcome to my github page! I'm Parth/Shaded, a code-enthusiast.
-
-I love to watch anime and read mangas when I have free time or when I am not coding / creating something..
+Welcome to my github page! I'm Parth, a code-enthusiast.
 
 ## Stats
 
 <p align="center">
     <a href="https://github.com/Xiaotoxdev/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ItsShaded's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsShaded&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Parth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-tomar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ### Projects 📁
 
-* Almost all of my projects yet are open-sourced and are available on my github profile. *It's not alot atm 😅*
+* Almost all of my projects yet are open-sourced and are available on my github profile. *It's not alot at the moment 😅*
 
 ### Skills & Tools 🖱️
 
@@ -42,8 +39,7 @@ I also love discovering and getting more information about new languages or fram
 
 ### Contact Me 🤝
 
-I'm available on **[Discord](https://discord.gg/wWUd6UV)**. <br>
-My **[Discord](https://discord.gg/spgTFE9)** bots server.
+I'm available on **[LinkedIn](linkedin.com/in/parth-tomar-85686a328/)**. <br>
 
 <a href="https://www.patreon.com/bePatron?u=72143073">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
@@ -52,8 +48,8 @@ My **[Discord](https://discord.gg/spgTFE9)** bots server.
 ### 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ItsShaded/github-readme-stats"><img alt="ItsShaded's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItsShaded&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ItsShaded/github-readme-stats"><img alt="ItsShaded's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShaded&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/parth-tomar/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parth-tomar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ItsShaded/github-readme-stats"><img alt="Parth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-tomar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +57,7 @@ My **[Discord](https://discord.gg/spgTFE9)** bots server.
 <br/>
 <br/>
 
-<a href="https://github.com/ItsShaded/github-readme-activity-graph"><img alt="ItsShaded's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ItsShaded&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/parth-tomar/github-readme-activity-graph"><img alt="Parth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=parth-tomar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
