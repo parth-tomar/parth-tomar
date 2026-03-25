@@ -24,8 +24,6 @@ Welcome to my github page! I'm Parth, a code-enthusiast.
 
 ### Skills & Tools 🖱️
 
-When I need to build things, I usually use ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots.
-
 I also love discovering and getting more information about new languages or frameworks for my upcoming projects, so feel free to send me a message with your recommendations on Discord!
 
 <p align="left"> 
@@ -35,6 +33,8 @@ I also love discovering and getting more information about new languages or fram
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+     </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
 ### Contact Me 🤝
