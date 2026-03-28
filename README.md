@@ -15,7 +15,7 @@ My secret info 👀
 * 🌍 I'm based in India
 * 🧠 Languages I learn or master: JavaScript, TypeScript, Python
 * 🤔 My other software related interests: 🤖 AI, AI-powered IDEs and coding tools, Video-editing
-* ⚡ Mobile player
+* 🎵 I love hip-hop music
 
 ### Projects 📁
 
@@ -49,11 +49,10 @@ I'm available on **[LinkedIn](https://linkedin.com/in/parth-tomar-85686a328/)**.
     <br />
     <a href="http://www.github.com/IgorWnek"><img src="https://github-readme-stats.vercel.app/api?username=parth-tomar&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Parth's GitHub stats" /></a>
     <br />    
-    <a href="http://www.github.com/parth-tomar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorWnek&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of Parth's GitHub stats" /></a>
+    <a href="http://www.github.com/parth-tomar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-tomar&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of Parth's GitHub stats" /></a>
     <br />
+   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
 </details>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
