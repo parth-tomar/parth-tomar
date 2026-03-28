@@ -8,19 +8,18 @@ My secret info 👀
 
 ## Hello, I am Parth! <img src="https://github.com/parth-tomar/parth-tomar/blob/main/WaveIcon.gif" width="30px">
 
-Welcome to my github page! I'm Parth, a code-enthusiast.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
-## Stats
+**`Video Editor & Code Enthusiast.`**
 
-<p align="center">
-    <a href="https://github.com/Xiaotoxdev/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Parth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-tomar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+* 🌍 I'm based in India
+* 🧠 Languages I learn or master: JavaScript, TypeScript, Python
+* 🤔 My other software related interests: 🤖 AI, AI-powered IDEs and coding tools, Video-editing
+* ⚡ Mobile player
 
 ### Projects 📁
 
-* Almost all of my projects yet are open-sourced and are available on my github profile. *It's not alot at the moment 😅*
+* Almost all of my projects yet are open-sourced and are available on my github profile.
 
 ### Skills & Tools 🖱️
 
@@ -45,14 +44,16 @@ I also love discovering and getting more information about new languages or fram
 
 I'm available on **[LinkedIn](https://linkedin.com/in/parth-tomar-85686a328/)**. <br>
 
-### 📊 My Github Stats
+<details>
+    <summary><b>📈 My GitHub Stats</b></summary>
+    <br />
+    <a href="http://www.github.com/IgorWnek"><img src="https://github-readme-stats.vercel.app/api?username=parth-tomar&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Parth's GitHub stats" /></a>
+    <br />    
+    <a href="http://www.github.com/parth-tomar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorWnek&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of Parth's GitHub stats" /></a>
+    <br />
+</details>
 
-  <br/>
-    <a href="https://github.com/parth-tomar/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parth-tomar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ItsShaded/github-readme-stats"><img alt="Parth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-tomar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
